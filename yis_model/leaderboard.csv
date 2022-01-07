@@ -1,0 +1,4 @@
+name,model_type,metric_type,metric_value,train_time
+1_Default_NeuralNetwork,Neural Network,logloss,0.26387640055333805,31.67
+2_Default_RandomForest,Random Forest,logloss,0.3352626281168826,16.33
+Ensemble,Ensemble,logloss,0.20684651588183134,1.22
