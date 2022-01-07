@@ -53,8 +53,6 @@ decorator==4.3.0
 distributed==1.21.8
 docutils==0.14
 dtreeviz==1.0
-en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-2.3.1/en_core_web_lg-2.3.1.tar.gz
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
 entrypoints==0.2.3
 et-xmlfile==1.0.1
 fastcache==1.0.2
@@ -246,9 +244,6 @@ threadpoolctl==2.1.0
 thrift==0.13.0
 tokenizers==0.5.2
 toolz==0.9.0
-torch==1.7.1+cpu
-torchaudio==0.7.2
-torchvision==0.8.2+cpu
 tornado==5.0.2
 torrequest==0.1.0
 tqdm==4.59.0
